@@ -1,0 +1,17 @@
+# WLLF default blocklist
+# Blocking custom list.
+#
+# #
+# License:
+# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
+#
+# Contributions by:
+# Anthony L Menendez
+#
+# [site block}
+10.1.10.250 youtube.com
+10.1.10.250 facebook.com
+10.1.10.250 pandora.com
+10.1.10.250 youtubemusic.com
+10.1.10.250 spotify.com
+10.1.10.250 applemusic.com
